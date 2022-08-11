@@ -10,7 +10,7 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
 2. Step two, make a new branch named after yourself. 
 
-    >git branch <your-name-here>
+    >git branch *your-name-here*
 
 3. **Checkout that new branch**
 4. Open jupyter notebook, and add something, delete something, or in someway change some thing in the MainNotebook provided
@@ -20,7 +20,7 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
     Do:
     
-    >git push origin <your-branch> 
+    >git push origin *your-branch* 
     
     Not:
 

@@ -14,7 +14,7 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
     >git branch *your-name-here*
 
-3. **Checkout that new branch**
+**3. Checkout that new branch**
 
 4. Open jupyter notebook, and add something, delete something, or in someway change some thing in the MainNotebook provided
 
@@ -32,7 +32,7 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
     >git push origin main
 
-8. open this link: https://github.com/JulianWard147/Git-Merge-Example
+8. Open this link: https://github.com/JulianWard147/Git-Merge-Example
 
 9. Navigate over to the branches 
 

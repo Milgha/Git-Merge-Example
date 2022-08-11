@@ -16,13 +16,13 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
 3. **Checkout that new branch**
 
-4. Open jupyter notebook, and add something, delete something, or in someway change some thing in the MainNotebook provided
+4. Open jupyter notebook, and add something, delete something, or in someway change some thing in the MainNotebook provided.
 
 5. Make a new notebook called 'your-name-notebook', replacing your-name with your name, of course.
 
 6. git add the MainNotebook and your new notebook, then git commit those changes with an appropriate comment.
 
-7. Push ONLY YOUR BRANCH to the origin
+7. Push ONLY YOUR BRANCH to the origin.
 
     Do:
     
@@ -32,7 +32,8 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
     >git push origin main
 
-8. Open this link: https://github.com/JulianWard147/Git-Merge-Example
+8. Open this link: https://github.com/JulianWard147/Git-Merge-Example.
 
-9. Navigate over to the branches 
+9. Navigate over to the branches. 
 
+10. Wait for further instruction.

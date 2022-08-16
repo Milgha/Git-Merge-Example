@@ -16,13 +16,19 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
 3. **Checkout that new branch**
 
-4. Open jupyter notebook, and add something, delete something, or in someway change some thing in the MainNotebook provided.
+    >git checkout *your-name-here*
 
-5. Make a new notebook called 'your-name-notebook', replacing your-name with your name, of course.
+4. **I repeat, checkout that new branch**
 
-6. git add the MainNotebook and your new notebook, then git commit those changes with an appropriate comment.
+5. Open jupyter notebook, and add something, delete something, or in some way change some thing in the MainNotebook provided.
 
-7. Push ONLY YOUR BRANCH to the origin.
+6. Make a new notebook called 'your-name-notebook', replacing your-name with your name, of course.
+
+7. Make a new .txt file, put your deepest darkest secret inside of it, then add that file to the .gitignore
+
+8. git add the MainNotebook and your new notebook, then git commit those changes with an appropriate comment.
+
+9. Push ONLY YOUR BRANCH to the origin.
 
     Do:
     
@@ -32,8 +38,8 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
     >git push origin main
 
-8. Open this link: https://github.com/JulianWard147/Git-Merge-Example.
+10. Open this link: https://github.com/JulianWard147/Git-Merge-Example.
 
-9. Navigate over to the branches. 
+11. Navigate over to the branches. 
 
-10. Wait for further instruction.
+12. Wait for further instruction.
